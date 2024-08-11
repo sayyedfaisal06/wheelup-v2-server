@@ -1,4 +1,4 @@
-# Ascend Server Documentation:
+#Server Documentation:
 
 ### Start development server -
 
